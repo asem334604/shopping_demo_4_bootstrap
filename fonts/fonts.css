@@ -1,0 +1,12 @@
+@font-face {
+    font-family: notosansReg;
+    src: url("NotoSans-Reg400.ttf");
+}
+@font-face {
+    font-family: notosansExtBold;
+    src: url("NotoSans-Reg900.ttf");
+}
+@font-face {
+    font-family: notosansThin;
+    src: url("NotoSans-Thin.ttf");
+}
